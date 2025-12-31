@@ -22,8 +22,8 @@ The program prompts the user to enter two strings.
 Each string is converted into a character array.
 The program checks if both arrays have the same length.
 If the lengths match:
-   >Both arrays are sorted.
-   >The sorted arrays are compared.
+   >>>Both arrays are sorted.
+   >>>The sorted arrays are compared.
 If all characters match, the strings are anagrams.
 
 
@@ -61,6 +61,6 @@ $java Main
 The comparison is case-sensitive.
 Spaces and special characters are not ignored.
 You can enhance the program by:
-   >Ignoring case
-   >Removing spaces
-   >Handling punctuation
+   >>>Ignoring case
+   >>>Removing spaces
+   >>>Handling punctuation
